@@ -1,1 +1,1 @@
-# Quantum-Computing-Qiskit
+# QxQ-Quantum-Computing-Python
